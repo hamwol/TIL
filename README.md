@@ -3,14 +3,15 @@
 
 ## 2019년의 공부 계획
 
+읽고, 쳐보고, 연습문제를 풀고, 프로젝트를 진행하자
+
 ### Language / Framework / Library
 
 * C / C++ / Qt
-* Java / JSP / Spring / JPA / Spring Boot
+* Java / JSP / Spring / JPA / Spring Boot / MyBatis
 * JavaScript / TypeScript / JQuery / React / Node
-* Python / Django
+* Python
 * Ruby / RoR
-* Kotlin
 
 ### Other
 
